@@ -1,0 +1,6 @@
+
+
+a::before{
+    content: "Yo whassup";
+    font-weight: bold;
+}
